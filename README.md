@@ -1,2 +1,2 @@
 # .Net
- Práticas/ Exercicios  dos estudos do C# com DIO  Innovation
+ Práticas/Exercicios de C# em Visual Studio com DIO INNOVATION
